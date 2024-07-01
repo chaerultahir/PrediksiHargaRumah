@@ -9,6 +9,27 @@ import numpy as np
 import plotly.express as px
 
 
+# Custom CSS to change the color of the sidebar
+st.markdown(
+    """
+    <style>
+    /* Mengubah warna sidebar */
+    .css-1lcbmhc {
+        background-color: #FFA500 !important; /* Oranye */
+    }
+    .css-18e3th9 {
+        padding-top: 3rem !important;
+    }
+    .css-18ni7ap {
+        padding: 1.5rem 1rem 0 !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+
+
 
 
 
