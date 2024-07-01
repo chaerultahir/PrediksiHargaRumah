@@ -29,7 +29,6 @@ st.markdown(
 )
 
 
-
 # Load model from a zip file
 filename = 'prediksi_harga_rumah_smg.zip'
 with zipfile.ZipFile(filename, 'r') as zip_ref:
@@ -42,7 +41,7 @@ with zipfile.ZipFile(filename, 'r') as zip_ref:
                 model_RF = pickle.load(f)
 
 # Membuat sidebar
-test = st.sidebar.radio("Menu", ["Beranda", "Data", "Labelling", "Prediksi", "Kontak"])
+test = st.sidebar.radio("Menu Prediksi Harga Rumah", ["Beranda", "Data", "Labelling", "Prediksi", "Kontak"])
 
 # Halaman Beranda
 if test == "Beranda":
