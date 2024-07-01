@@ -23,6 +23,7 @@ test = st.sidebar.radio("Menu", ["Beranda", "Data", "Labelling", "Prediksi", "Ko
 
 # Halaman Beranda
 if test == "Beranda":
+    st.image('head.png')
     st.header("Halo Selamat Datang :wave:")
     st.markdown("#### Ini merupakan website yang dapat memprediksi harga rumah di Kota Semarang sesuai dengan kriteria yang diinginkan oleh calon pembeli.")
     st.image('peta-kota-semarang.jpg')
