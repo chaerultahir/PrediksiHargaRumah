@@ -49,7 +49,9 @@ if test == "Data":
 
     st.markdown("#### Persentase penjualan rumah di Kota Semarang.")
     st.image('persentasepenjualanrumah.png')
-
+    
+    st.markdown("#### Variasi Jumlah Kamar Tidur, Jumlah Kamar Mandi, Variasi Jumlah Garasi.")
+    st.image('persentasepenjualanrumah.png')
 
 import streamlit as st
 
