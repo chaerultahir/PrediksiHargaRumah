@@ -51,7 +51,7 @@ if test == "Data":
     st.image('persentasepenjualanrumah.png')
     
     st.markdown("#### Variasi Jumlah Kamar Tidur, Jumlah Kamar Mandi, Variasi Jumlah Garasi.")
-    st.image('persentasepenjualanrumah.png')
+    st.image('jumlahkamartidur.png')
 
 import streamlit as st
 
