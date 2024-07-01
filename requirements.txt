@@ -4,3 +4,8 @@ numpy==1.23.0
 scipy==1.10.0
 streamlit
 matplotlib
+altair
+streamlit-aggrid
+matplotlib
+plotly
+scikit-learn
