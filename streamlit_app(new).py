@@ -85,6 +85,9 @@ if test == "Data":
     st.markdown("####  Random Forest Regression")
     st.image('randomforest.png')
 
+    st.markdown("####  Variable Importances")
+    st.image('varimportance.png')
+
 
 import streamlit as st
 
