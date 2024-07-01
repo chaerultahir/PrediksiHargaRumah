@@ -44,7 +44,11 @@ if test == "Data":
     - **rumah featured**: rumah unggulan
     - **rumah premier**: rumah mewah
     """)
-    
+    st.markdown("#### Sebaran Harga Rumah.")
+    st.image('Sebaranhargarumah.png')
+
+
+
 
 import streamlit as st
 
