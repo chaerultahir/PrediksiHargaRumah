@@ -78,6 +78,12 @@ if test == "Data":
     st.markdown("#### Apakah LT dan LB dapat mempengaruhi harga rumah?")
     st.image('plotLT&LB.png')
 
+    st.markdown("### Model")
+    st.markdown("####  visualisasi model MLR")
+    st.image('linearregression.png')
+
+
+
 
 import streamlit as st
 
