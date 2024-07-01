@@ -81,8 +81,9 @@ if test == "Data":
     st.markdown("### Model")
     st.markdown("####  visualisasi model MLR")
     st.image('linearregression.png')
-
-
+    
+    st.markdown("####  Random Forest Regression")
+    st.image('randomforest.png')
 
 
 import streamlit as st
