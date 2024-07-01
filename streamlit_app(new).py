@@ -76,6 +76,10 @@ if test == "Data":
     st.markdown("#### Variasi Jumlah Kamar Tidur, Jumlah Kamar Mandi, Variasi Jumlah Garasi.")
     st.image('jumlahkamartidur.png')
 
+    st.markdown("#### Apakah LT dan LB dapat mempengaruhi harga rumah?")
+    st.image('plotLT&LB.png')
+
+
 import streamlit as st
 
 # Halaman Labelling
