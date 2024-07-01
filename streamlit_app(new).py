@@ -6,6 +6,8 @@ from io import BytesIO
 import os
 import tempfile
 import numpy as np
+import plotly.express as px
+
 
 # Load model from a zip file
 filename = 'prediksi_harga_rumah_smg.zip'
