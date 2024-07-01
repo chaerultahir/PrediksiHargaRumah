@@ -128,11 +128,21 @@ if test == "Prediksi":
 # Halaman Kontak
 
 if test == "Kontak":
-    st.subheader("Hai, mari terhubung! :wave:")
-    st.markdown("""
-    **Nama**    : Fransisca Mulya Sari  
-    **LinkedIn**: [https://www.linkedin.com/in/fransisca-mulya-sari-a51853260/](https://www.linkedin.com/in/fransisca-mulya-sari-a51853260/)  
-    **Github**  : [https://github.com/FransiscaaMS](https://github.com/FransiscaaMS)  
-    **Email**   : [fransiscaams@gmail.com](mailto:fransiscaams@gmail.com)  
-    """)
+    st.subheader("Hai, nama Kelompok kami:! :wave:")
 
+    st.markdown("""
+    **Nama**    : Prabowo Danny Wicaksono
+    **Email**   : [prabowodannyw@gmail.com](mailto:chaerul.tahir@gmail.com)  
+    """)
+    st.markdown("""
+    **Nama**    : Septiadi
+    **Email**   : [septiiadi@gmail.com](mailto:chaerul.tahir@gmail.com)  
+    """)
+    st.markdown("""
+    **Nama**    : Asep Asdiana
+    **Email**   : [prabowodannyw@gmail.com](mailto:chaerul.tahir@gmail.com)  
+    """)
+    st.markdown("""
+    **Nama**    : Muh. Chaerul 
+    **Email**   : [chaerul.tahir@gmail.com](mailto:chaerul.tahir@gmail.com)  
+    """)
