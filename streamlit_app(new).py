@@ -30,9 +30,6 @@ st.markdown(
 
 
 
-
-
-
 # Load model from a zip file
 filename = 'prediksi_harga_rumah_smg.zip'
 with zipfile.ZipFile(filename, 'r') as zip_ref:
@@ -177,6 +174,12 @@ if test == "Kontak":
     **Email**   : [prabowodannyw@gmail.com](mailto:chaerul.tahir@gmail.com)  
     """)
     st.markdown("""
+    **Nama**    : Muhammad abdul baasith
+    **Email**   : [Muhammad_abdul_baasith@gmail.com](mailto:chaerul.tahir@gmail.com)  
+    """)
+    st.markdown("""
     **Nama**    : Muh. Chaerul 
     **Email**   : [chaerul.tahir@gmail.com](mailto:chaerul.tahir@gmail.com)  
     """)
+
+
